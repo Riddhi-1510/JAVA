@@ -10,7 +10,7 @@ public class StringB3 {
 		System.out.println();
 		int k=1;
 		for(int i=0;i<ans.length;i++){	
-			StringBuffer buf = new StringBuffer(ans[i]);
+			StrBuffer buf = new StrBuffer(ans[i]);
 			String newStr = buf.reverse().toString();
 			int vowel = 0,consonent=0;
 			for(int j=0;j<newStr.length();j++){
