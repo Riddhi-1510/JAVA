@@ -1,10 +1,15 @@
 public class StrBuff3 {
-    void printPermutationsAndFindRank(String s,String c){
-        
+    void permutations(String s,int l,int r){
+        if(l==r){
+            
+        }
     }
     public static void main(String[] args) {
+
         StrBuff3 s = new StrBuff3();
-        s.printPermutationsAndFindRank("ABCD","");
+        String str = "ABCD";
+       
+        s.permutations(str,0,str.length()-1);
     }
 }
 
