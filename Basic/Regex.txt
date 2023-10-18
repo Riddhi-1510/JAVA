@@ -21,7 +21,7 @@ Sample Test Case:
 
 Problem 4: URL Parser
 Question: Implement a URL parser that extracts different components (e.g., protocol, domain, path) from a given URL using regular expressions.
-
+((((((((((((((((((((((((((((((((()))))))))))))))))))))))))))))))))
 Sample Test Case:
 - Input: "https://www.example.com/path/to/resource"
 - Output:
@@ -49,7 +49,7 @@ Question: Develop a program to recognize and validate license plate numbers usin
 Sample Test Case:
 - Input: "AB123CD"
 - Output: Valid
-
+(************************************)
 Problem 8: IP Address Validation
 Question: Write a Java program to validate IPv4 and IPv6 addresses using regular expressions.
 
